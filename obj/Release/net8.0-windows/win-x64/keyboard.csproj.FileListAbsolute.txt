@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\keyboard.exe
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\keyboard.deps.json
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\keyboard.runtimeconfig.json
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\keyboard.dll
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\keyboard.pdb
+C:\Users\Admin\Desktop\TPMLabs\keyboard\bin\Release\net8.0-windows\win-x64\System.Management.dll
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.csproj.Up2Date
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.dll
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\refint\keyboard.dll
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.pdb
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\keyboard.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Release\net8.0-windows\win-x64\ref\keyboard.dll

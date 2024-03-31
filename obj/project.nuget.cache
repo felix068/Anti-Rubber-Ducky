@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F+MqRaybmiDxeKqUZ0YLXm3BujWtuFMnGYEg7C++h6iANdSzL5a/z/ZQVNayTmFSSBdd1Pcp4RA9/broWTldg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\TPMLabs\\keyboard\\keyboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

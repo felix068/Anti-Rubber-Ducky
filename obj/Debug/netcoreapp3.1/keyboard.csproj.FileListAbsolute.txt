@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Debug\netcoreapp3.1\keyboard.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Debug\netcoreapp3.1\keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Debug\netcoreapp3.1\keyboard.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Debug\netcoreapp3.1\keyboard.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TPMLabs\keyboard\obj\Debug\netcoreapp3.1\keyboard.csproj.CoreCompileInputs.cache

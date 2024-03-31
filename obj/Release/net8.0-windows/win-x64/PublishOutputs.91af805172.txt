@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\keyboard.exe
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\keyboard.dll
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\keyboard.deps.json
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\keyboard.runtimeconfig.json
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\keyboard.pdb
+C:\Users\Admin\Desktop\TPMLabs\keyboard\build\System.Management.dll
